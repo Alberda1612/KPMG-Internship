@@ -35,14 +35,23 @@ The report comprises 4 pages;
 
 ![](customer.JPG)
 
+From the report, we notice that Sprocket has 3413 customers with majority of the customers based in New South Wales, Australia. There is almost the same number of males to females with females being about 3% higher than male customers. 
+
 2. Sales Analysis 
 
 ![](sales.JPG)
+
+From the Sales report, we can see that a total of $21.4 million dollars sales was made in 2017. Out of this, a profit of $10.65 million profit was made. This is about 50% profit margin. The highest sales was made in October, 2017 after which the sales declined until December and beyond. New South Wales being the city with our most customers, also gave in the highest sales. 
 
 3. Transactions
 
 ![](transaction.JPG)
 
+A total of 19.34k transactions was made in 2017 with October recording the highest number of transactions. Out of the $10.65 million profit made, October alone gave a profit of $969.93k profit. We also noticed that the Solex and Giant Bicycles were the most purchased brands. Customers aged between 40 and 60 tend to purchase more. 
+
 4. Segmentation Dashboard
 
 ![](dshboard.JPG)
+
+
+## Recommendations 
