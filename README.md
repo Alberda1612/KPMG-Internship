@@ -23,6 +23,11 @@ The following Power BI features were incorporated;
 - Calculated Columns
 - Modelling.
 
+## Data Quality Assesment
+The snippet below is a part of the data quality assessment report that was made foor the client. Click [here](https://github.com/Alberda1612/KPMG-Internship/blob/main/Data%20Quality%20Assessment%20Report.pdf) to view the full report. 
+
+![](dataquality.JPG)
+
 ## Modelling
 Three datasets were provided; Customer Demographic, Customer Address and Transaction Dataset. Unnecessary data was removed and the three datasets were joined as one, using Customer Id as the Primary key to join all three datasets and renamed, Working dataset. 
 A new table was created for the RFM analysis called the RFM table. A many to one relationship was created from the Customer data table to the RFM table using the Customer ID. Below is the final model that was used for the analysis. The new customer list was loaded as a seperate table since it had no relation with the Working dataset.
@@ -53,5 +58,12 @@ A total of 19.34k transactions was made in 2017 with October recording the highe
 
 ![](dshboard.JPG)
 
+Click on the link [here](https://app.powerbi.com/groups/me/dashboards/640bceec-b96c-4e13-98cf-ad2d220740ee) to interact with the dashboard.
 
 ## Recommendations 
+1. On the dashboard, we see a list of specific new customers to target to bring in more sales to the company. 
+2. More marketing strategies should be targeted for the New South Wales customers and the city in general. 
+3. People aged between 40-60 years should be targeted as well.
+4. There was an almost equal purchase for both males and females hence both gender should be targeted equally.
+5. People living at the outskirts of town should be targeted as such people are more likely to need Bike services.
+6. The company should make available more products and new products from Solex Brand as customers purchase the brand more, hence are likely to trust other Bike accessories from the brand.
