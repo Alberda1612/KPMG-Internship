@@ -24,7 +24,7 @@ The following Power BI features were incorporated;
 - Modelling.
 
 ## Data Quality Assesment
-The snippet below is a part of the data quality assessment report that was made foor the client. Click [here](https://github.com/Alberda1612/KPMG-Internship/blob/main/Data%20Quality%20Assessment%20Report.pdf) to view the full report. 
+The snippet below is a part of the data quality assessment report that was made foor the client. Click :point_right: [here](https://github.com/Alberda1612/KPMG-Internship/blob/main/Data%20Quality%20Assessment%20Report.pdf) to view the full report. 
 
 ![](dataquality.JPG)
 
@@ -58,7 +58,7 @@ A total of 19.34k transactions was made in 2017 with October recording the highe
 
 ![](dshboard.JPG)
 
-Click on the link [here](https://app.powerbi.com/groups/me/dashboards/640bceec-b96c-4e13-98cf-ad2d220740ee) to interact with the dashboard.
+Click on the link :point_right: [here](https://app.powerbi.com/groups/me/dashboards/640bceec-b96c-4e13-98cf-ad2d220740ee) to interact with the dashboard.
 
 ## Recommendations 
 1. On the dashboard, we see a list of specific new customers to target to bring in more sales to the company. 
